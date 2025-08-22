@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"name": "@typedome/typedome",
 	"publish": {
-		"include": ["dist", "src", "LICENSE", "package.json"]
+		"include": ["dist", "src", "LICENSE", "README.md", "package.json"]
 	},
 	"version": "0.0.0"
 }
