@@ -1,0 +1,12 @@
+{
+	"$schema": "https://jsr.io/schema/config-file.v1.json",
+	"exports": {
+		"./package.json": "./package.json"
+	},
+	"license": "MIT",
+	"name": "@typedome/typedome",
+	"publish": {
+		"include": ["dist", "src", "package.json"]
+	},
+	"version": "0.0.0"
+}
