@@ -30,7 +30,9 @@
 		"type": "git",
 		"url": "git+https://github.com/hunarroopcodes/typedome.git"
 	},
-	"scripts": {},
+	"scripts": {
+		"lint": "biome check"
+	},
 	"type": "module",
 	"version": "0.0.0"
 }
