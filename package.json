@@ -4,7 +4,9 @@
 	"bugs": "https://github.com/hunarroopcodes/typedome/issues",
 	"dependencies": {},
 	"description": "Type-safe, Standard Schema—compliant schema declaration and validation library",
-	"devDependencies": {},
+	"devDependencies": {
+		"@biomejs/biome": "^2.2.0"
+	},
 	"exports": {
 		"./package.json": "./package.json"
 	},
