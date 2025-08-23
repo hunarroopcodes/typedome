@@ -25,7 +25,9 @@
 	"license": "MIT",
 	"name": "@typedome/typedome",
 	"packageManager": "bun@1.2.20",
-	"peerDependencies": {},
+	"peerDependencies": {
+		"typescript": "*"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/hunarroopcodes/typedome.git"
