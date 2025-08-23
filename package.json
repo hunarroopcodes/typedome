@@ -5,7 +5,8 @@
 	"dependencies": {},
 	"description": "Type-safe, Standard Schema—compliant schema declaration and validation library",
 	"devDependencies": {
-		"@biomejs/biome": "^2.2.0"
+		"@biomejs/biome": "^2.2.0",
+		"@types/bun": "^1.2.20"
 	},
 	"exports": {
 		"./package.json": "./package.json"
