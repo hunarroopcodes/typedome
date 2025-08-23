@@ -34,7 +34,8 @@
 	},
 	"scripts": {
 		"format": "biome check --write",
-		"lint": "biome check"
+		"lint": "biome check",
+		"typecheck": "tsc"
 	},
 	"type": "module",
 	"version": "0.0.0"
