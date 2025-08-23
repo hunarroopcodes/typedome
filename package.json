@@ -2,7 +2,9 @@
 	"$schema": "https://json.schemastore.org/package.json",
 	"author": "Hunar Roop Kahlon <hunarroopcodes@gmail.com>",
 	"bugs": "https://github.com/hunarroopcodes/typedome/issues",
-	"dependencies": {},
+	"dependencies": {
+		"@standard-schema/spec": "^1.0.0"
+	},
 	"description": "Type-safe, Standard Schema—compliant schema declaration and validation library",
 	"devDependencies": {
 		"@biomejs/biome": "^2.2.0",
